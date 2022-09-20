@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../OneDrive/Documents/GitHub/assignment1"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "assignment1",
+		"liveServer.settings.port": 5501
+	}
+}

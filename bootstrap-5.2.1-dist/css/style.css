@@ -1,0 +1,52 @@
+
+body {
+    margin: 0 auto;
+    max-width: 500px;
+    width: 50%;
+    height: 30%;
+    background:  linear-gradient(to right, purple , yellow);
+}
+
+.h1{
+    text-align: center;
+}
+
+#box1 {
+    float: left;
+    margin: 5px;
+    width: 80px;
+    height: 80px;
+    padding: 5px;
+    background-color: rgb(128, 101, 154);
+    border-radius: 10px;
+}
+
+#box2 {
+    float: right;
+    margin: 5px;
+    width: 80px;
+    height: 80px;
+    padding: 5px;
+    background-color: rgb(128, 101, 154);
+    border-radius: 10px;
+    
+}
+#box3 {
+    float: left;
+    margin: 5px;
+    width: 80px;
+    height: 80px;
+    padding: 5px;
+    background-color: rgb(128, 101, 154);
+    border-radius: 10px;
+}
+
+
+.special {
+    background-color: rebeccapurple;
+    padding: 15px;
+    color: black;
+    height: 80px;
+    border-radius: 20px;
+    
+}
